@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.801282051282051" branch-rate="0.785714285714286" lines-covered="125" lines-valid="156" branches-covered="11" branches-valid="14" complexity="39" version="0" timestamp="1715881597">
+<coverage line-rate="0.801282051282051" branch-rate="0.785714285714286" lines-covered="125" lines-valid="156" branches-covered="11" branches-valid="14" complexity="39" version="0" timestamp="1715884254">
   <sources>
     <source>C:\Users\melin\</source>
   </sources>
   <packages>
     <package name="UsingXUnit" line-rate="0.705128205128205" branch-rate="0.833333333333333" complexity="23">
       <classes>
-        <class name="UsingXUnit.FileReaderConector" filename="C:\Users\melin\source\repos\UsingXUnit\FileReaderConector.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="UsingXUnit.FileReaderConector" filename="C:\Users\melin\source\repos\UnitTestxUnit\UsingXUnit\FileReaderConector.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="ReadString" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -47,7 +47,7 @@
             <line number="31" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="UsingXUnit.StringOperations" filename="C:\Users\melin\source\repos\UsingXUnit\StringOperations.cs" line-rate="0.873015873015873" branch-rate="0.833333333333333" complexity="22">
+        <class name="UsingXUnit.StringOperations" filename="C:\Users\melin\source\repos\UnitTestxUnit\UsingXUnit\StringOperations.cs" line-rate="0.873015873015873" branch-rate="0.833333333333333" complexity="22">
           <methods>
             <method name="ConcatenateStrings" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -247,7 +247,7 @@
             <line number="4" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="UsingXUnitTest.StringOperationTest" filename="C:\Users\melin\source\repos\UsingXUnitTest\StringOperationTest.cs" line-rate="0.909090909090909" branch-rate="0.5" complexity="15">
+        <class name="UsingXUnitTest.StringOperationTest" filename="C:\Users\melin\source\repos\UnitTestxUnit\UsingXUnitTest\StringOperationTest.cs" line-rate="0.909090909090909" branch-rate="0.5" complexity="15">
           <methods>
             <method name="ConcatenateString" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
